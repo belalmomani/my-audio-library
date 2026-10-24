@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مكتبتي الصوتية</string>
+    <string name="notif_channel_processing">معالجة التسجيلات</string>
+    <string name="notif_processing_title">جارٍ معالجة التسجيل</string>
+</resources>
